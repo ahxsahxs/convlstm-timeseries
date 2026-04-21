@@ -338,4 +338,4 @@ python inference.py \
 - Shi, X., et al. (2015). "Convolutional LSTM Network: A Machine Learning Approach for Precipitation Nowcasting." NeurIPS.
 - Perez, E., et al. (2018). "FiLM: Visual Reasoning with a General Conditioning Layer." AAAI.
 - GreenEarthNet Challenge Documentation
-- TensorFlow ConvLSTM Implementation: https://www.tensorflow.org/addons/api_docs/python/tfa/seq2seq/ConvLSTM2D
+- TensorFlow ConvLSTM Implementation: [https://www.tensorflow.org/addons/api_docs/python/tfa/seq2seq/ConvLSTM2D](https://www.tensorflow.org/api_docs/python/tf/keras/layers/ConvLSTM2D)
